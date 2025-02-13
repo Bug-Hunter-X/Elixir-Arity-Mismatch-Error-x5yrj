@@ -1,0 +1,1 @@
+This repository demonstrates an Elixir arity mismatch error and how to fix it. The bug.ex file contains code that causes this error. The bugSolution.ex file contains corrected code.
